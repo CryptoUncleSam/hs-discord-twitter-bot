@@ -1,0 +1,21 @@
+{
+  "name": "hade-discord-tw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.15.0",
+    "@project-serum/anchor": "^0.25.0",
+    "axios": "^1.1.2",
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.3",
+    "twitter-api-v2": "^1.12.5"
+  }
+}
